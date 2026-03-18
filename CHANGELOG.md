@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/pbsousa/desofs/compare/v3.0.0...v3.0.1) (2026-03-18)
+
+
+### Bug Fixes
+
+* delete files ([00d0c65](https://github.com/pbsousa/desofs/commit/00d0c6516390b84b2eed541ca6d07c7f83e8a1f8))
+
 ## [3.0.0](https://github.com/pbsousa/desofs/compare/v2.0.0...v3.0.0) (2026-03-18)
 
 
