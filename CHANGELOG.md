@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.0](https://github.com/pbsousa/desofs/compare/v3.0.1...v3.1.0) (2026-03-18)
+
+
+### Features
+
+* new alunos ([1c2851b](https://github.com/pbsousa/desofs/commit/1c2851bfb6782b6e1021fc5bf357e5327a9e245c))
+* new alunos ([bb4f525](https://github.com/pbsousa/desofs/commit/bb4f525bcaf77e4c4876b55d29613199d917b46d))
+
 ## [3.0.1](https://github.com/pbsousa/desofs/compare/v3.0.0...v3.0.1) (2026-03-18)
 
 
